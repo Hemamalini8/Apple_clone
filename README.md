@@ -1,4 +1,4 @@
-# 🍏 APPLE CLONE – React JS
+# APPLE CLONE – React JS
 
 ## 🧩 Overview  
 The **Apple Clone** is a sleek and modern UI project built using **React JS** and **Tailwind CSS**, inspired by the official Apple website.  
